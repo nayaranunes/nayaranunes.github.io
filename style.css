@@ -1,0 +1,136 @@
+body {
+	background: write;
+	text-align: center;
+}
+
+h1 {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  font-family: "Raleway", sans-serif;
+  font-weight: 300;
+  font-size: 40px;
+  color: #080808;
+  -webkit-transition: all 0.4s ease 0s;
+  -o-transition: all 0.4s ease 0s;
+  transition: all 0.4s ease 0s;
+}
+
+.ini h1 {
+  padding: 15px
+  display: block;
+  font-size: 0.8em;
+  line-height: 1.3;
+  text-align: center;
+}
+h1 span {
+  display: block;
+  font-size: 0.5em;
+  line-height: 1.3;
+}
+h1 em {
+  font-style: normal;
+  font-weight: 600;
+}
+.one h1 {
+  text-align: center;
+  text-transform: uppercase;
+  padding-bottom: 5px;
+}
+.one h1:before {
+  width: 28px;
+  height: 5px;
+  display: block;
+  content: "";
+  position: absolute;
+  bottom: 3px;
+  left: 50%;
+  margin-left: -14px;
+  background-color: black;
+}
+.one h1:after {
+  width: 100px;
+  height: 1px;
+  display: block;
+  content: "";
+  position: relative;
+  margin-top: 25px;
+  left: 50%;
+  margin-left: -50px;
+  background-color: black;
+}
+
+#e1ad {
+	max-height: 300px;
+	max-width: 16%;
+	width: auto;
+	height: auto;
+}
+#lb21 {
+	max-height: 300px;
+	max-width: 16.3%;
+	width: auto;
+	height: auto;
+}
+
+.align-center {
+	text-align: center; 
+	background: write
+}
+.medio {
+	background: write
+}
+.editorialaderiva {
+	background: black;
+}
+.lookbookforever21dafiti {
+  	background-image: linear-gradient(to right, rgba(215,212,212,1), rgba(212,212,212,1));
+}
+.twocolumns {
+	column-count: 2;
+}
+.floral {
+  	background-image: linear-gradient(lightblue, yellow);
+	background-size: cover;
+	/*opacity: .5;*/
+	padding: 15px
+}
+.pink {
+ 	background-image: linear-gradient(blue, pink, pink);
+	background-size: cover;
+	padding: 12px
+}
+.jeans {
+  	background-image: linear-gradient(to right, rgba(53,101,31,0.4), rgba(32,23,167,0.6));
+	background-size: cover;
+	padding: 15px
+}
+.zebra {
+  	background-image: linear-gradient(red, yellow);
+	background-size: cover;
+	padding: 12px
+}
+p {
+	text-align: center
+}
+#missao {
+	font-size: 24px
+}
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+em strong {
+	/*RGB
+	red/green/blue
+	0 = ausencia
+	F = total*/
+	color: #FF0000
+}
+.itens {
+	font-style: italic;
+	font-size: 30px;
+}
+
